@@ -32,6 +32,15 @@ Turn raw Longdo probe logs into hourly mobility metrics for Bangkok and visualiz
   - `exports/images_speed_weekday_weekend.png`
 - **Power BI**: dashboard file (optional): `bkk_traffic.pbix`
 
+## 📊 Dashboard Preview
+
+### Overall Dashboard
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Hourly Traffic Trends
+![Hourly Trends](screenshots/hourly_trends.png)
+
+
 ## How to Reproduce
 ```bash
 python -m venv venv
