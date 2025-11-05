@@ -1,0 +1,12 @@
+# Raw data (do not upload)
+data/*.csv.out
+data/*.tar*
+data/*.zip
+
+# Temp
+*.tmp
+*.ipynb_checkpoints
+
+# Virtual env
+venv/
+.env/

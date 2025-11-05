@@ -1,0 +1,10 @@
+date,hour,area,congestion_index,travel_time_min,avg_speed_kmh
+2025-01-05,7,Sukhumvit,72,28,21
+2025-01-05,8,Sukhumvit,78,32,18
+2025-01-05,17,Sukhumvit,85,40,15
+2025-01-06,7,Silom,68,26,23
+2025-01-06,8,Silom,75,30,19
+2025-01-06,18,Silom,88,42,14
+2025-01-07,8,Rama 9,77,31,19
+2025-01-07,17,Rama 9,90,44,13
+2025-01-11,18,Rama 9,92,46,12
