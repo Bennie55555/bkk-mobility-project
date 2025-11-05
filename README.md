@@ -1,4 +1,4 @@
-# Bangkok Traffic - 7-Day GPS Probe Analysis
+# Bangkok Traffic - 7 Day GPS Probe Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Used-informational)
