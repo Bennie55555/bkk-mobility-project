@@ -1,5 +1,11 @@
 # Bangkok Traffic - 7-Day GPS Probe Analysis
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Used-informational)
+![SQLite](https://img.shields.io/badge/SQLite-DB-green)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+
 **Goal**  
 Turn raw Longdo probe logs into hourly mobility metrics for Bangkok and visualize peak congestion patterns.
 
