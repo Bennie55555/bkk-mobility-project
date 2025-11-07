@@ -5,6 +5,8 @@ Turn raw Longdo probe logs into hourly mobility metrics for Bangkok and visualiz
 
 ## Data
 - 7 daily files: `data/20240601.csv.out` … `20240607.csv.out`
+- Raw Data Size: Total raw rows: 14,278,049
+  Total cleaned rows: 14,278,012 (only 37 invalid/NaN rows removed)
 - Parsed columns: `vehicle_id, lat, lon, timestamp, speed`
 - Total rows: {'slowest_hour': 3, 'slowest_speed_kmh': 6.34, 'fastest_hour': 14, 'fastest_speed_kmh': 15.38, 'busiest_hour': 16, 'busiest_points': 677165, 'weekday_speed': 12.42, 'weekend_speed': 13.17, 'delta_weekend_minus_weekday': 0.75}
 - Time window: 1–7 Jun 2024
