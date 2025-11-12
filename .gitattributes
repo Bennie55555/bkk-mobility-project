@@ -1,3 +1,11 @@
 *.ipynb linguist-language=Python
 exports/* linguist-detectable=false
 screenshots/* linguist-detectable=false
+*.ipynb linguist-language=Python
+
+exports/** linguist-detectable=false
+screenshots/** linguist-detectable=false
+
+*.html linguist-detectable=false
+
+*.pbix linguist-detectable=false
