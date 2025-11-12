@@ -2,3 +2,10 @@
 *.ipynb linguist-detectable=true
 *.py linguist-language=Python
 *.ipynb linguist-language=Python
+
+
+*.ipynb linguist-language=Python
+
+
+exports/* linguist-detectable=false
+screenshots/* linguist-detectable=false
